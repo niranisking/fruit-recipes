@@ -481,7 +481,7 @@ Header
 */
 .hero {
   min-height: 40vh;
-  background: url("/starter/assets/recipes/pexels-polina-kovaleva-7248421 edit.jpg") center/cover no-repeat fixed;
+  background: url("./assets/recipes/pexels-polina-kovaleva-7248421 edit.jpg") center/cover no-repeat fixed;
   position: relative;
   margin-bottom: 2rem;
   border-radius: var(--borderRadius);
